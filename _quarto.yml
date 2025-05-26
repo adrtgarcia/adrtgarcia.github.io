@@ -1,17 +1,17 @@
 project:
   type: website
   output-dir: docs
-  resources: curriculo.pdf
+  resources: 
+    - galeria/
+    - arquivos/
 
 website:
-  title: "" #Portfolio
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projetos.qmd
-  favicon: snoopyicon.jpg
+  favicon: galeria/snoopyicon.jpg
 
 format:
   html:

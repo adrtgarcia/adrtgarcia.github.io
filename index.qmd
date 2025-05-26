@@ -1,6 +1,6 @@
 ---
 title: "Amanda Duarte"
-image: snoopy.jpg
+image: galeria/snoopy.jpg
 about: 
   id: pf-heading
   template: jolla
@@ -18,7 +18,7 @@ about:
       href: mailto:amandadrtgarcia@gmail.com
     - text: Currículo
       icon: file-text
-      href: curriculo.pdf
+      href: arquivos/curriculo.pdf
 ---
 
 ::: {#pf-heading}
