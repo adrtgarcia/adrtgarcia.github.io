@@ -1,20 +1,20 @@
 project:
   type: website
   output-dir: docs
+  resources: curriculo.pdf
 
 website:
-  title: "adrtgarcia.github.io"
+  title: "Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projetos.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: minty
     css: styles.css
     toc: true
 

@@ -1,11 +1,30 @@
 ---
-title: "adrtgarcia.github.io"
+title: "Amanda Duarte"
+image: snoopy.jpg
+about: 
+  id: pf-heading
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/adrtgarcia/
+    - text: GitHub
+      icon: github
+      href: https://github.com/adrtgarcia
+    - text: Email
+      icon: envelope
+      href: mailto:amandadrtgarcia@gmail.com
+    - text: Currículo
+      icon: file-text
+      href: curriculo.pdf
 ---
 
-This is a Quarto website.
+::: {#pf-heading}
+Estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU), gosto muito das áreas de Desenvolvimento de Software e Ciência de Dados e estou sempre buscando oportunidades de aprender mais e crescer profissionalmente no mundo da tecnologia.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<div style="text-align: right; opacity: 0.7;">
+*“It's what you've done with your time, how you've chosen to spend your days, and whom you've touched this year. That, to me, is the greatest measure of success.”*<en> *Wonder, R. J. Palacio*
+</div>
+:::
