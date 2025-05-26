@@ -4,13 +4,14 @@ project:
   resources: curriculo.pdf
 
 website:
-  title: "Portfolio"
+  title: "" #Portfolio
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - projetos.qmd
+  favicon: snoopyicon.jpg
 
 format:
   html:
