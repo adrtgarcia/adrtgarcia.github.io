@@ -15,7 +15,7 @@ lang: pt-br
 
 ## Objetivo
 
-Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar.
+Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual buscamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar.
 
 
 ## Implementação
