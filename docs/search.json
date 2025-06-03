@@ -11,7 +11,7 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\ncat1\n\n\ncat2\n\n\ncatn\n\n\n\nDescrição do projeto.\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\ncat1\n\n\ncat2\n\n\ncatn\n\n\n\nDescrição do projeto.\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "projetos/teste.html",
@@ -60,7 +60,7 @@
     "href": "projetos/freezemonster.html#implementação",
     "title": "Sprite-Based Game Framework",
     "section": "Implementação",
-    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado."
+    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo."
   },
   {
     "objectID": "projetos/freezemonster.html#desenvolvimento",
@@ -74,7 +74,7 @@
     "href": "projetos/freezemonster.html#resultado",
     "title": "Sprite-Based Game Framework",
     "section": "Resultado",
-    "text": "Resultado\nO trabalho completo pode ser encontrado neste repositório.\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\nSpaceInvaders\n\n\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro, e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, usando seu raio congelante e desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nFreezeMonster\n\n\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
+    "text": "Resultado\nO trabalho completo pode ser encontrado neste repositório.\n\nSpaceInvaders\n\n\n\nSpaceInvaders\n\n\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro, e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, usando seu raio congelante e desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nFreezeMonster\n\n\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
   },
   {
     "objectID": "projetos/teste.html#objetivo",
@@ -88,14 +88,14 @@
     "href": "projetos/teste.html#implementação",
     "title": "Título do Projeto",
     "section": "Implementação",
-    "text": "Implementação\ntexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n\ntexto\ntexto\ntexto"
+    "text": "Implementação"
   },
   {
     "objectID": "projetos/teste.html#resultado",
     "href": "projetos/teste.html#resultado",
     "title": "Título do Projeto",
     "section": "Resultado",
-    "text": "Resultado\ntexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto"
+    "text": "Resultado"
   },
   {
     "objectID": "projetos/teste.html#melhorias",
@@ -103,5 +103,82 @@
     "title": "Título do Projeto",
     "section": "Melhorias",
     "text": "Melhorias\ntexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto"
+  },
+  {
+    "objectID": "projetos/teste.html#desenvolvimento",
+    "href": "projetos/teste.html#desenvolvimento",
+    "title": "Título do Projeto",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento"
+  },
+  {
+    "objectID": "projetos/projetos.html",
+    "href": "projetos/projetos.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\nCAT1\n\n\nCAT2\n\n\nCAT3\n\n\n\nDescrição do projeto\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "docs/projetos/teste.html#implementação",
+    "href": "docs/projetos/teste.html#implementação",
+    "title": "Título do Projeto",
+    "section": "Implementação",
+    "text": "Implementação"
+  },
+  {
+    "objectID": "docs/projetos/teste.html#desenvolvimento",
+    "href": "docs/projetos/teste.html#desenvolvimento",
+    "title": "Título do Projeto",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento"
+  },
+  {
+    "objectID": "docs/projetos/teste.html#resultado",
+    "href": "docs/projetos/teste.html#resultado",
+    "title": "Título do Projeto",
+    "section": "Resultado",
+    "text": "Resultado"
+  },
+  {
+    "objectID": "docs/projetos/freezemonster.html",
+    "href": "docs/projetos/freezemonster.html",
+    "title": "Sprite-Based Game Framework",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
+  },
+  {
+    "objectID": "docs/projetos/freezemonster.html#objetivo",
+    "href": "docs/projetos/freezemonster.html#objetivo",
+    "title": "Sprite-Based Game Framework",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
+  },
+  {
+    "objectID": "docs/projetos/freezemonster.html#implementação",
+    "href": "docs/projetos/freezemonster.html#implementação",
+    "title": "Sprite-Based Game Framework",
+    "section": "Implementação",
+    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo."
+  },
+  {
+    "objectID": "docs/projetos/freezemonster.html#desenvolvimento",
+    "href": "docs/projetos/freezemonster.html#desenvolvimento",
+    "title": "Sprite-Based Game Framework",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento\nComo o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders fosse instanciado de forma separada.\nAssim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster."
+  },
+  {
+    "objectID": "docs/projetos/freezemonster.html#resultado",
+    "href": "docs/projetos/freezemonster.html#resultado",
+    "title": "Sprite-Based Game Framework",
+    "section": "Resultado",
+    "text": "Resultado\nO trabalho completo pode ser encontrado neste repositório.\n\nSpaceInvaders\n\n\n\nSpaceInvaders\n\n\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro, e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, usando seu raio congelante e desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nFreezeMonster\n\n\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
+  },
+  {
+    "objectID": "docs/projetos/projetos.html",
+    "href": "docs/projetos/projetos.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\nCAT1\n\n\nCAT2\n\n\nCAT3\n\n\n\nDescrição do projeto\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
   }
 ]

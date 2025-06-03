@@ -1,6 +1,6 @@
 ---
 title: "Amanda Duarte"
-image: galeria/snoopy.jpg
+image: arquivos/snoopy.jpg
 about: 
   id: pf-heading
   template: jolla

@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - galeria/
     - arquivos/
+    - projetos/
 
 website:
   title: ""
@@ -11,7 +11,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projetos.qmd
+      - href: projetos/projetos.qmd
         text: Projetos
   favicon: galeria/snoopyicon.jpg
 

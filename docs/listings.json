@@ -5,5 +5,19 @@
       "/projetos/freezemonster.html",
       "/projetos/teste.html"
     ]
+  },
+  {
+    "listing": "/projetos/projetos.html",
+    "items": [
+      "/projetos/freezemonster.html",
+      "/projetos/teste.html"
+    ]
+  },
+  {
+    "listing": "/docs/projetos/projetos.html",
+    "items": [
+      "/docs/projetos/freezemonster.html",
+      "/docs/projetos/teste.html"
+    ]
   }
 ]
