@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projetos.qmd
+        text: Projetos
   favicon: galeria/snoopyicon.jpg
 
 format:

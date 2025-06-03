@@ -1,0 +1,15 @@
+---
+title: "Projetos"
+listing: 
+  contents:
+    - projetos/
+  type: default
+  sort: "date desc"
+  date-format: DD/MM/YYYY
+  categories: true
+  fields: [image, description, title, date, categories]
+  
+page-layout: full
+lang: pt-br
+---
+

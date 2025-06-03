@@ -1,0 +1,30 @@
+---
+title: "Título"
+format: html
+
+date: 2025-01-01
+date-format: long
+categories: [abc, def, ghi]
+description: "Descrição do projeto"
+
+page-break-after: always
+number-sections: false
+fig-align: center
+lang: pt-br
+---
+
+## Título 1
+
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+
+- texto
+- texto
+
+
+## Título 2
+
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+
+* texto
+* texto
+* texto 
