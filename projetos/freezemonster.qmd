@@ -15,41 +15,45 @@ lang: pt-br
 
 ## Objetivo
 
-Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework *Arcade-Games-Sprite-Based* para a implementação de um novo jogo, *FreezeMonster*, sem que o jogo já existente, *SpaceInvaders*, deixasse de funcionar.
+Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar.
 
 
 ## Implementação
 
 Este trabalho foi implementado em **Java** com **Programação Orientada a Objetos**. Utilizamos também os **padrões de projeto** Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado. 
 
-O jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.
+O trabalho completo pode ser encontrado neste [repositório](https://github.com/adrtgarcia/Laboratorios-UFU/tree/main/FACOM31401%20-%20PPP/TCD/Código%20Final) no GitHub.
 
 
 ## Desenvolvimento 
 
-Como o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o *SpaceInvaders* fosse instanciado de forma separada.
+Como o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders tivesse instanciação própria.
 
-Assim, com a nova versão do framework, e tomando como base o funcionamento do *SpaceInvaders*, foi possível implementar um novo jogo, *FreezeMonster*.
+Assim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster.
 
 
-## Resultado
-
-O trabalho completo pode ser encontrado neste [repositório](https://github.com/adrtgarcia/Laboratorios-UFU/tree/main/FACOM31401%20-%20PPP/TCD/Código%20Final).
+## Resultados
 
 ### SpaceInvaders
 
-![SpaceInvaders](imagens/spaceinvaders.png)
+O jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.
+
+<p align='center'>
+  <br><img src="imagens/spaceinvaders.png"><br>
+</p>
 
 - O jogador se move na horizontal
 - Os tiros do jogador são disparados ao apertar "espaço"
-- Os invasores se movem de um lado para o outro, e para baixo
+- Os invasores se movem de um lado para o outro e para baixo
 - As bombas dos invasores caem aleatoriamente
 
 ### FreezeMonster
 
-O jogador deve eliminar todos os monstros, usando seu raio congelante e desviando dos monstros e gosmas, para ganhar o jogo.
+O jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.
 
-![FreezeMonster](imagens/freezemonster.png)
+<p align='center'>
+  <br><img src="imagens/freezemonster.png" width="460" height="273"><br>
+</p>
 
 - Woody se move em qualquer direção
 - O raio congelante do Woody é disparado com "espaço"

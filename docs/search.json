@@ -60,14 +60,14 @@
     "href": "projetos/freezemonster.html#implementação",
     "title": "Sprite-Based Game Framework",
     "section": "Implementação",
-    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo."
+    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.\nO trabalho completo pode ser encontrado neste repositório no GitHub."
   },
   {
     "objectID": "projetos/freezemonster.html#desenvolvimento",
     "href": "projetos/freezemonster.html#desenvolvimento",
     "title": "Sprite-Based Game Framework",
     "section": "Desenvolvimento",
-    "text": "Desenvolvimento\nComo o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders fosse instanciado de forma separada.\nAssim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster."
+    "text": "Desenvolvimento\nComo o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders tivesse instanciação própria.\nAssim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster."
   },
   {
     "objectID": "projetos/freezemonster.html#resultado",
@@ -158,14 +158,14 @@
     "href": "docs/projetos/freezemonster.html#implementação",
     "title": "Sprite-Based Game Framework",
     "section": "Implementação",
-    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo."
+    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.\nO trabalho completo pode ser encontrado neste repositório no GitHub."
   },
   {
     "objectID": "docs/projetos/freezemonster.html#desenvolvimento",
     "href": "docs/projetos/freezemonster.html#desenvolvimento",
     "title": "Sprite-Based Game Framework",
     "section": "Desenvolvimento",
-    "text": "Desenvolvimento\nComo o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders fosse instanciado de forma separada.\nAssim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster."
+    "text": "Desenvolvimento\nComo o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders tivesse instanciação própria.\nAssim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster."
   },
   {
     "objectID": "docs/projetos/freezemonster.html#resultado",
@@ -180,5 +180,19 @@
     "title": "Projetos",
     "section": "",
     "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\nCAT1\n\n\nCAT2\n\n\nCAT3\n\n\n\nDescrição do projeto\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "projetos/freezemonster.html#resultados",
+    "href": "projetos/freezemonster.html#resultados",
+    "title": "Sprite-Based Game Framework",
+    "section": "Resultados",
+    "text": "Resultados\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
+  },
+  {
+    "objectID": "docs/projetos/freezemonster.html#resultados",
+    "href": "docs/projetos/freezemonster.html#resultados",
+    "title": "Sprite-Based Game Framework",
+    "section": "Resultados",
+    "text": "Resultados\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
   }
 ]
