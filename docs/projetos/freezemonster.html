@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Descrição do projeto.">
+<meta name="description" content="Criação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.">
 
-<title>Título do Projeto</title>
+<title>Sprite-Based Game Framework</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -111,8 +111,12 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#objetivo" id="toc-objetivo" class="nav-link active" data-scroll-target="#objetivo">Objetivo</a></li>
   <li><a href="#implementação" id="toc-implementação" class="nav-link" data-scroll-target="#implementação">Implementação</a></li>
-  <li><a href="#resultado" id="toc-resultado" class="nav-link" data-scroll-target="#resultado">Resultado</a></li>
-  <li><a href="#melhorias" id="toc-melhorias" class="nav-link" data-scroll-target="#melhorias">Melhorias</a></li>
+  <li><a href="#desenvolvimento" id="toc-desenvolvimento" class="nav-link" data-scroll-target="#desenvolvimento">Desenvolvimento</a></li>
+  <li><a href="#resultado" id="toc-resultado" class="nav-link" data-scroll-target="#resultado">Resultado</a>
+  <ul class="collapse">
+  <li><a href="#spaceinvaders" id="toc-spaceinvaders" class="nav-link" data-scroll-target="#spaceinvaders">SpaceInvaders</a></li>
+  <li><a href="#freezemonster" id="toc-freezemonster" class="nav-link" data-scroll-target="#freezemonster">FreezeMonster</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -121,17 +125,18 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Título do Projeto</h1>
+<h1 class="title">Sprite-Based Game Framework</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">cat1</div>
-    <div class="quarto-category">cat2</div>
-    <div class="quarto-category">catn</div>
+    <div class="quarto-category">Java</div>
+    <div class="quarto-category">Orientação à Objetos</div>
+    <div class="quarto-category">Design Patterns</div>
+    <div class="quarto-category">TCD</div>
   </div>
   </div>
 
 <div>
   <div class="description">
-    Descrição do projeto.
+    Criação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.
   </div>
 </div>
 
@@ -142,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Data de Publicação</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">1 de janeiro de 2025</p>
+      <p class="date">7 de maio de 2025</p>
     </div>
   </div>
   
@@ -156,30 +161,54 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="objetivo" class="level2">
 <h2 class="anchored" data-anchor-id="objetivo">Objetivo</h2>
-<p>texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto</p>
-<ul>
-<li>texto</li>
-<li>texto</li>
-</ul>
+<p>Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework <em>Arcade-Games-Sprite-Based</em> para a implementação de um novo jogo, <em>FreezeMonster</em>, sem que o jogo já existente, <em>SpaceInvaders</em>, deixasse de funcionar.</p>
 </section>
 <section id="implementação" class="level2">
 <h2 class="anchored" data-anchor-id="implementação">Implementação</h2>
-<p>texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto</p>
-<ul>
-<li>texto</li>
-<li>texto</li>
-<li>texto</li>
-</ul>
+<p>Este trabalho foi implementado em <strong>Java</strong> com <strong>Programação Orientada a Objetos</strong>. Utilizamos também os <strong>padrões de projeto</strong> Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado.</p>
+</section>
+<section id="desenvolvimento" class="level2">
+<h2 class="anchored" data-anchor-id="desenvolvimento">Desenvolvimento</h2>
+<p>Como o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o <em>SpaceInvaders</em> fosse instanciado de forma separada.</p>
+<p>Assim, com a nova versão do framework, e tomando como base o funcionamento do <em>SpaceInvaders</em>, foi possível implementar um novo jogo, <em>FreezeMonster</em>.</p>
 </section>
 <section id="resultado" class="level2">
 <h2 class="anchored" data-anchor-id="resultado">Resultado</h2>
-<p>texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto</p>
+<p>O trabalho completo pode ser encontrado neste <a href="https://github.com/adrtgarcia/Laboratorios-UFU/tree/main/FACOM31401%20-%20PPP/TCD/Código%20Final">repositório</a>.</p>
+<section id="spaceinvaders" class="level3">
+<h3 class="anchored" data-anchor-id="spaceinvaders">SpaceInvaders</h3>
+<p>O jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="imagens/spaceinvaders.png" class="img-fluid figure-img"></p>
+<figcaption>SpaceInvaders</figcaption>
+</figure>
+</div>
+<ul>
+<li>O jogador se move na horizontal</li>
+<li>Os tiros do jogador são disparados ao apertar “espaço”</li>
+<li>Os invasores se movem de um lado para o outro, e para baixo</li>
+<li>As bombas dos invasores caem aleatoriamente</li>
+</ul>
 </section>
-<section id="melhorias" class="level2">
-<h2 class="anchored" data-anchor-id="melhorias">Melhorias</h2>
-<p>texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto</p>
+<section id="freezemonster" class="level3">
+<h3 class="anchored" data-anchor-id="freezemonster">FreezeMonster</h3>
+<p>O jogador deve eliminar todos os monstros, usando seu raio congelante e desviando dos monstros e gosmas, para ganhar o jogo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="imagens/freezemonster.png" class="img-fluid figure-img"></p>
+<figcaption>FreezeMonster</figcaption>
+</figure>
+</div>
+<ul>
+<li>Woody se move em qualquer direção</li>
+<li>O raio congelante do Woody é disparado com “espaço”</li>
+<li>Os monstros se movem aleatoriamente em qualquer direção</li>
+<li>As gosmas dos monstros são disparadas em direções aleatórias</li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

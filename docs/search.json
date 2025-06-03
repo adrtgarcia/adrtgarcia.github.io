@@ -11,12 +11,12 @@
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Teste\n\n\n\n\n\n\njava\n\n\noop\n\n\nwebscraping\n\n\n\ndetalhes sobre meu tcd bla bla bla bla\n\n\n\n\n\n24/11/2024\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\ncat1\n\n\ncat2\n\n\ncatn\n\n\n\nDescrição do projeto.\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "projetos/teste.html",
     "href": "projetos/teste.html",
-    "title": "Teste",
+    "title": "Título do Projeto",
     "section": "",
     "text": "texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n\ntexto\ntexto"
   },
@@ -40,5 +40,68 @@
     "title": "Teste",
     "section": "",
     "text": "texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n\ntexto\ntexto"
+  },
+  {
+    "objectID": "projetos/freezemonster.html",
+    "href": "projetos/freezemonster.html",
+    "title": "Sprite-Based Game Framework",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
+  },
+  {
+    "objectID": "projetos/freezemonster.html#objetivo",
+    "href": "projetos/freezemonster.html#objetivo",
+    "title": "Sprite-Based Game Framework",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
+  },
+  {
+    "objectID": "projetos/freezemonster.html#implementação",
+    "href": "projetos/freezemonster.html#implementação",
+    "title": "Sprite-Based Game Framework",
+    "section": "Implementação",
+    "text": "Implementação\nEste trabalho foi implementado em Java com Programação Orientada a Objetos. Utilizamos também os padrões de projeto Abstract Factory e Template Method, além de Hook Methods, a fim de garantir um código reutilizável e bem estruturado."
+  },
+  {
+    "objectID": "projetos/freezemonster.html#desenvolvimento",
+    "href": "projetos/freezemonster.html#desenvolvimento",
+    "title": "Sprite-Based Game Framework",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento\nComo o código inicial não tinha uma separação bem definida da implementação do framework e do jogo, o primeiro passo foi refatorar ambos os programas, de modo que o framework ficasse responsável pela parte genérica, enquanto o SpaceInvaders fosse instanciado de forma separada.\nAssim, com a nova versão do framework, e tomando como base o funcionamento do SpaceInvaders, foi possível implementar um novo jogo, FreezeMonster."
+  },
+  {
+    "objectID": "projetos/freezemonster.html#resultado",
+    "href": "projetos/freezemonster.html#resultado",
+    "title": "Sprite-Based Game Framework",
+    "section": "Resultado",
+    "text": "Resultado\nO trabalho completo pode ser encontrado neste repositório.\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\nSpaceInvaders\n\n\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro, e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, usando seu raio congelante e desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nFreezeMonster\n\n\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
+  },
+  {
+    "objectID": "projetos/teste.html#objetivo",
+    "href": "projetos/teste.html#objetivo",
+    "title": "Título do Projeto",
+    "section": "",
+    "text": "texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n\ntexto\ntexto"
+  },
+  {
+    "objectID": "projetos/teste.html#implementação",
+    "href": "projetos/teste.html#implementação",
+    "title": "Título do Projeto",
+    "section": "Implementação",
+    "text": "Implementação\ntexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto\n\ntexto\ntexto\ntexto"
+  },
+  {
+    "objectID": "projetos/teste.html#resultado",
+    "href": "projetos/teste.html#resultado",
+    "title": "Título do Projeto",
+    "section": "Resultado",
+    "text": "Resultado\ntexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto"
+  },
+  {
+    "objectID": "projetos/teste.html#melhorias",
+    "href": "projetos/teste.html#melhorias",
+    "title": "Título do Projeto",
+    "section": "Melhorias",
+    "text": "Melhorias\ntexto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto"
   }
 ]
