@@ -3,7 +3,6 @@ project:
   output-dir: docs
   resources: 
     - arquivos/
-    - projetos/
 
 website:
   title: ""
@@ -11,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projetos/projetos.qmd
+      - href: projetos.qmd
         text: Projetos
   favicon: galeria/snoopyicon.jpg
 

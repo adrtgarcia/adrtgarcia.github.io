@@ -1,7 +1,8 @@
 ---
 title: "Projetos"
 listing: 
-  contents: ./
+  contents: 
+    - projetos/
   type: default
   sort: "date desc"
   date-format: DD/MM/YYYY
