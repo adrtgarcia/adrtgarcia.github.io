@@ -10,14 +10,15 @@
     "listing": "/projetos/projetos.html",
     "items": [
       "/projetos/freezemonster.html",
-      "/projetos/teste.html"
+      "/projetos/hipermercado.html"
     ]
   },
   {
     "listing": "/docs/projetos/projetos.html",
     "items": [
       "/docs/projetos/freezemonster.html",
-      "/docs/projetos/teste.html"
+      "/docs/projetos/teste.html",
+      "/docs/projetos/hipermercado.html"
     ]
   }
 ]

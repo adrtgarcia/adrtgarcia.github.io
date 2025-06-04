@@ -1,0 +1,35 @@
+---
+title: "Sistema de Banco de Dados para Supermercado"
+format: html
+
+date: 2024-10-25
+date-format: long
+categories: [SQL, Banco de Dados, PostgreSQL, TCD]
+description: "Desenvolvimento de um sistema de banco de dados, desde a análise de requisitos até sua implementação com SQL."
+
+page-break-after: always
+number-sections: false
+fig-align: center
+lang: pt-br
+---
+
+## Objetivo
+
+Este projeto se trata de um Trabalho de Conclusão da Disciplina de Sistemas de Banco de Dados, no qual buscamos reforçar nosso conhecimento com relação à modelagem de um problema do mundo real e ao desenvolvimento de consultas envolvendo álgebra relacional, SQL (DDL e DML), procedimentos armazenados e gatilhos.
+
+
+## Implementação
+
+Este trabalho possui modelos Entidade-Relacionamento Estendido e Relacional, e foi implementado com **SQL** e **PostgreSQL**. 
+
+O trabalho completo pode ser encontrado neste [repositório](https://github.com/adrtgarcia/Laboratorios-UFU/tree/main/GBC043%20-%20SBD/TCD) no GitHub.
+
+
+## Desenvolvimento 
+
+A partir da descrição dos requisitos de dados fornecida, elaboramos um [Modelo Entidade-Relacionamento Estendido](imagens/merxhipermercado.jpg) e, em seguida, fizemos o mapeamento para [Modelo Relacional](imagens/mrelhipermercado.jpg). 
+
+Assim, foi possível elaborar o scripts em SQL para a criação do banco de dados, para o qual utilizamos o PostgreSQL. Com o SBD pronto, geramos dados fictícios com auxílio de uma IA.
+
+Por fim, foram implementados um gatilho, responsável por atualizar a categoria do cliente, e um procedimento armazenado, para controlar o estoque do hipermercado de acordo com as vendas registradas. 
+

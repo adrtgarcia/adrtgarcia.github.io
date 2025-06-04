@@ -46,14 +46,14 @@
     "href": "projetos/freezemonster.html",
     "title": "Sprite-Based Game Framework",
     "section": "",
-    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual buscamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
   },
   {
     "objectID": "projetos/freezemonster.html#objetivo",
     "href": "projetos/freezemonster.html#objetivo",
     "title": "Sprite-Based Game Framework",
     "section": "",
-    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual buscamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar."
   },
   {
     "objectID": "projetos/freezemonster.html#implementação",
@@ -116,7 +116,7 @@
     "href": "projetos/projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\nCAT1\n\n\nCAT2\n\n\nCAT3\n\n\n\nDescrição do projeto\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nSistema de Banco de Dados para Supermercado\n\n\n\n\n\n\nSQL\n\n\nBanco de Dados\n\n\nPostgreSQL\n\n\nTCD\n\n\n\nDesenvolvimento de um sistema de banco de dados, desde a análise de requisitos até sua implementação com SQL.\n\n\n\n\n\n25/10/2024\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "docs/projetos/teste.html#implementação",
@@ -179,14 +179,14 @@
     "href": "docs/projetos/projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\nCAT1\n\n\nCAT2\n\n\nCAT3\n\n\n\nDescrição do projeto\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nTítulo do Projeto\n\n\n\n\n\n\nCAT1\n\n\nCAT2\n\n\nCAT3\n\n\n\nDescrição do projeto\n\n\n\n\n\n01/01/2025\n\n\n\n\n\n\n\nSistema de Banco de Dados para Supermercado\n\n\n\n\n\n\nSQL\n\n\nBanco de Dados\n\n\nPostgreSQL\n\n\nTCD\n\n\n\nDesenvolvimento de um sistema de banco de dados, desde a análise de requisitos até sua implementação com SQL.\n\n\n\n\n\n25/10/2024\n\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "projetos/freezemonster.html#resultados",
     "href": "projetos/freezemonster.html#resultados",
     "title": "Sprite-Based Game Framework",
     "section": "Resultados",
-    "text": "Resultados\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
+    "text": "Resultados\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
   },
   {
     "objectID": "docs/projetos/freezemonster.html#resultados",
@@ -194,5 +194,61 @@
     "title": "Sprite-Based Game Framework",
     "section": "Resultados",
     "text": "Resultados\n\nSpaceInvaders\nO jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nO jogador se move na horizontal\nOs tiros do jogador são disparados ao apertar “espaço”\nOs invasores se movem de um lado para o outro e para baixo\nAs bombas dos invasores caem aleatoriamente\n\n\n\nFreezeMonster\nO jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.\n\n\n\nMecânicas:\n\nWoody se move em qualquer direção\nO raio congelante do Woody é disparado com “espaço”\nOs monstros se movem aleatoriamente em qualquer direção\nAs gosmas dos monstros são disparadas em direções aleatórias"
+  },
+  {
+    "objectID": "projetos/hipermercado.html",
+    "href": "projetos/hipermercado.html",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Sistemas de Banco de Dados, no qual buscamos reforçar nosso conhecimento com relação à modelagem de um problema do mundo real e ao desenvolvimento de consultas envolvendo álgebra relacional, SQL (DDL e DML), procedimentos armazenados e gatilhos."
+  },
+  {
+    "objectID": "projetos/hipermercado.html#objetivo",
+    "href": "projetos/hipermercado.html#objetivo",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Sistemas de Banco de Dados, no qual buscamos reforçar nosso conhecimento com relação à modelagem de um problema do mundo real e ao desenvolvimento de consultas envolvendo álgebra relacional, SQL (DDL e DML), procedimentos armazenados e gatilhos."
+  },
+  {
+    "objectID": "projetos/hipermercado.html#implementação",
+    "href": "projetos/hipermercado.html#implementação",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "Implementação",
+    "text": "Implementação\nEste trabalho possui modelos Entidade-Relacionamento Estendido e Relacional, e foi implementado com SQL e PostgreSQL.\nO trabalho completo pode ser encontrado neste repositório no GitHub."
+  },
+  {
+    "objectID": "projetos/hipermercado.html#desenvolvimento",
+    "href": "projetos/hipermercado.html#desenvolvimento",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento\nA partir da descrição dos requisitos de dados fornecida, elaboramos um Modelo Entidade-Relacionamento Estendido e, em seguida, fizemos o mapeamento para Modelo Relacional.\nAssim, foi possível elaborar o scripts em SQL para a criação do banco de dados, para o qual utilizamos o PostgreSQL. Com o SBD pronto, geramos dados fictícios com auxílio de uma IA.\nPor fim, foram implementados um gatilho, responsável por atualizar a categoria do cliente, e um procedimento armazenado, para controlar o estoque do hipermercado de acordo com as vendas registradas."
+  },
+  {
+    "objectID": "docs/projetos/hipermercado.html",
+    "href": "docs/projetos/hipermercado.html",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Sistemas de Banco de Dados, no qual buscamos reforçar nosso conhecimento com relação à modelagem de um problema do mundo real e ao desenvolvimento de consultas envolvendo álgebra relacional, SQL (DDL e DML), procedimentos armazenados e gatilhos."
+  },
+  {
+    "objectID": "docs/projetos/hipermercado.html#objetivo",
+    "href": "docs/projetos/hipermercado.html#objetivo",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "",
+    "text": "Este projeto se trata de um Trabalho de Conclusão da Disciplina de Sistemas de Banco de Dados, no qual buscamos reforçar nosso conhecimento com relação à modelagem de um problema do mundo real e ao desenvolvimento de consultas envolvendo álgebra relacional, SQL (DDL e DML), procedimentos armazenados e gatilhos."
+  },
+  {
+    "objectID": "docs/projetos/hipermercado.html#implementação",
+    "href": "docs/projetos/hipermercado.html#implementação",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "Implementação",
+    "text": "Implementação\nEste trabalho possui modelos Entidade-Relacionamento Estendido e Relacional, e foi implementado com SQL e PostgreSQL.\nO trabalho completo pode ser encontrado neste repositório no GitHub."
+  },
+  {
+    "objectID": "docs/projetos/hipermercado.html#desenvolvimento",
+    "href": "docs/projetos/hipermercado.html#desenvolvimento",
+    "title": "Sistema de Banco de Dados para Supermercado",
+    "section": "Desenvolvimento",
+    "text": "Desenvolvimento\nA partir da descrição dos requisitos de dados fornecida, elaboramos um Modelo Entidade-Relacionamento Estendido e, em seguida, fizemos o mapeamento para Modelo Relacional.\n\n  \n\nAssim, foi possível elaborar o scripts em SQL para a criação do banco de dados, para o qual utilizamos o PostgreSQL. Com o SBD pronto, geramos dados fictícios com auxílio de uma IA.\nPor fim, foram implementados um gatilho, responsável por atualizar a categoria do cliente, e um procedimento armazenado, para controlar o estoque do hipermercado de acordo com as vendas registradas."
   }
 ]

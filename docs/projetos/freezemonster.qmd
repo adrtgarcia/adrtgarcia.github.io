@@ -15,7 +15,7 @@ lang: pt-br
 
 ## Objetivo
 
-Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual deveríamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar.
+Este projeto se trata de um Trabalho de Conclusão da Disciplina de Princípios e Padrões de Projeto, no qual buscamos evoluir o framework Arcade-Games-Sprite-Based para a implementação de um novo jogo, FreezeMonster, sem que o jogo já existente, SpaceInvaders, deixasse de funcionar.
 
 
 ## Implementação
@@ -39,10 +39,8 @@ Assim, com a nova versão do framework, e tomando como base o funcionamento do S
 O jogador deve eleminar as naves invasoras, sem ser atingido pelas bombas, para ganhar o jogo.
 
 <p align='center'>
-  <img src="imagens/spaceinvaders.png">
+  <br><img src="imagens/spaceinvaders.png"><br>
 </p>
-
-Mecânicas:
 
 - O jogador se move na horizontal
 - Os tiros do jogador são disparados ao apertar "espaço"
@@ -54,10 +52,8 @@ Mecânicas:
 O jogador deve eliminar todos os monstros, desviando dos monstros e gosmas, para ganhar o jogo.
 
 <p align='center'>
-  <img src="imagens/freezemonster.png" width="460" height="273">
+  <br><img src="imagens/freezemonster.png" width="460" height="273"><br>
 </p>
-
-Mecânicas:
 
 - Woody se move em qualquer direção
 - O raio congelante do Woody é disparado com "espaço"
