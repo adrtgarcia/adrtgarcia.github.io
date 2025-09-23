@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.7.32">
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projetos</title>
+<title>Sobre</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./galeria/snoopyicon.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -57,78 +55,20 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Nenhum resultado",
-    "search-matching-documents-text": "documentos correspondentes",
-    "search-copy-link-title": "Copiar link para a busca",
-    "search-hide-matches-text": "Esconder correspondências adicionais",
-    "search-more-match-text": "mais correspondência neste documento",
-    "search-more-matches-text": "mais correspondências neste documento",
-    "search-clear-button-title": "Limpar",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Procurar"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-description','listing-title','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -139,8 +79,8 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-            <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -150,11 +90,11 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.qmd"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projetos.html" aria-current="page"> 
+    <a class="nav-link" href="./projetos.html"> 
 <span class="menu-text">Projetos</span></a>
   </li>  
 </ul>
@@ -165,23 +105,23 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QmFuY28lMjBkZSUyMERhZG9z">Banco de Dados <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGVzaWduJTIwUGF0dGVybnM=">Design Patterns <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SmF2YQ==">Java <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3JpZW50YSVDMyVBNyVDMyVBM28lMjAlQzMlQTAlMjBPYmpldG9z">Orientação à Objetos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UG9zdGdyZVNRTA==">PostgreSQL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U1FM">SQL <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VENE">TCD <span class="quarto-category-count">(2)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projetos</h1>
+<h1 class="title">Sobre</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -193,71 +133,19 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="SmF2YSUyQ09yaWVudGElQzMlQTclQzMlQTNvJTIwJUMzJUEwJTIwT2JqZXRvcyUyQ0Rlc2lnbiUyMFBhdHRlcm5zJTJDVENE" data-listing-date-sort="1746586800000" data-listing-file-modified-sort="1748987749791" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="260">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projetos/freezemonster.html" class="no-external">Sprite-Based Game Framework</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('SmF2YQ=='); return false;">Java</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T3JpZW50YSVDMyVBNyVDMyVBM28lMjAlQzMlQTAlMjBPYmpldG9z'); return false;">Orientação à Objetos</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGVzaWduJTIwUGF0dGVybnM='); return false;">Design Patterns</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VENE'); return false;">TCD</div>
-
+<div id="pf-heading">
+<p>Atualmente no 7º período do Bacharelado em Ciência da Computação, pela Universidade Federal de Uberlândia (UFU), sou Estagiária em Desenvolvimento de Software na ASA Digital.</p>
+<p>Apesar de ter preferência pelo back-end, hoje estudo também tecnologias front-end, e até mesmo Ciência de Dados, uma área que me aproximei muito durante a faculdade.</p>
+<p>Criei este site com o intuito de compartilhar os projetos que tenho desenvolvido, tanto na faculdade quanto de forma independente. Estarei atualizando periodicamente!</p>
+<section id="projetos-em-andamento" class="level3">
+<h3 class="anchored" data-anchor-id="projetos-em-andamento">Projetos em Andamento</h3>
+<p>No momento, estou me dedicando a esses projetos: * 🖥️ criação do portófilio * 📝 estudos sobre c# e .net * 🪄 bootcamp de frontend</p>
+</section>
 </div>
-<div class="delink listing-description"><a href="./projetos/freezemonster.html" class="no-external">
-<p>Criação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projetos/freezemonster.html" class="no-external">
-<div class="listing-date">
-07/05/2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="U1FMJTJDQmFuY28lMjBkZSUyMERhZG9zJTJDUG9zdGdyZVNRTCUyQ1RDRA==" data-listing-date-sort="1729825200000" data-listing-file-modified-sort="1748992695411" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projetos/hipermercado.html" class="no-external">Sistema de Banco de Dados para Supermercado</a>
-</h3>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('U1FM'); return false;">SQL</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('QmFuY28lMjBkZSUyMERhZG9z'); return false;">Banco de Dados</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('UG9zdGdyZVNRTA=='); return false;">PostgreSQL</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VENE'); return false;">TCD</div>
-
-</div>
-<div class="delink listing-description"><a href="./projetos/hipermercado.html" class="no-external">
-<p>Desenvolvimento de um sistema de banco de dados, desde a análise de requisitos até sua implementação com SQL.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./projetos/hipermercado.html" class="no-external">
-<div class="listing-date">
-25/10/2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">Sem itens correspondentes</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -283,12 +171,12 @@ window.Quarto = {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copiada");
+      button.setAttribute("title", "Copied!");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copiada");
+        button.setAttribute("data-bs-title", "Copied!");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -658,6 +546,19 @@ window.Quarto = {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>página criada com 💙 e <a href="https://quarto.org/">quarto</a> por amanda duarte.</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

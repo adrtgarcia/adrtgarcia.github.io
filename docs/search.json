@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Amanda Duarte",
     "section": "",
-    "text": "Estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU), gosto muito das áreas de Desenvolvimento de Software e Ciência de Dados e estou sempre buscando oportunidades de aprender mais e crescer profissionalmente no mundo da tecnologia.\n\n“It’s what you’ve done with your time, how you’ve chosen to spend your days, and whom you’ve touched this year. That, to me, is the greatest measure of success.” Wonder, R. J. Palacio\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n  \n    \n     Currículo"
+    "text": "Estudante de Ciência da Computação na Universidade Federal de Uberlândia (UFU) e Estagiária em Desenvolvimento de Software na ASA Digital, estou sempre buscando oportunidades de aprender mais e crescer profissionalmente no mundo da tecnologia.\n\n“It’s what you’ve done with your time, how you’ve chosen to spend your days, and whom you’ve touched this year. That, to me, is the greatest measure of success.”  Wonder, R. J. Palacio\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n  \n    \n     Currículo"
   },
   {
     "objectID": "projetos.html",
     "href": "projetos.html",
     "title": "Projetos",
     "section": "",
-    "text": "Sprite-Based Game Framework\n\n\n\n\n\n\nJava\n\n\nOrientação à Objetos\n\n\nDesign Patterns\n\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nSistema de Banco de Dados para Supermercado\n\n\n\n\n\n\nSQL\n\n\nBanco de Dados\n\n\nPostgreSQL\n\n\nTCD\n\n\n\nDesenvolvimento de um sistema de banco de dados, desde a análise de requisitos até sua implementação com SQL.\n\n\n\n\n\n25/10/2024\n\n\n\n\n\n\nSem itens correspondentes"
+    "text": "Sprite-Based Game Framework\n\n\n\nJava\n\nOrientação à Objetos\n\nDesign Patterns\n\nTCD\n\n\n\nCriação de jogos a partir do framework Arcade-Games-Sprite-Based, aplicando princípios e padrões de projeto.\n\n\n\n\n\n07/05/2025\n\n\n\n\n\n\n\nSistema de Banco de Dados para Supermercado\n\n\n\nSQL\n\nBanco de Dados\n\nPostgreSQL\n\nTCD\n\n\n\nDesenvolvimento de um sistema de banco de dados, desde a análise de requisitos até sua implementação com SQL.\n\n\n\n\n\n25/10/2024\n\n\n\n\n\nSem itens correspondentes"
   },
   {
     "objectID": "projetos/teste.html",
@@ -250,5 +250,12 @@
     "title": "Sistema de Banco de Dados para Supermercado",
     "section": "Desenvolvimento",
     "text": "Desenvolvimento\nA partir da descrição dos requisitos de dados fornecida, elaboramos um Modelo Entidade-Relacionamento Estendido e, em seguida, fizemos o mapeamento para Modelo Relacional.\n\n  \n\nAssim, foi possível elaborar o scripts em SQL para a criação do banco de dados, para o qual utilizamos o PostgreSQL. Com o SBD pronto, geramos dados fictícios com auxílio de uma IA.\nPor fim, foram implementados um gatilho, responsável por atualizar a categoria do cliente, e um procedimento armazenado, para controlar o estoque do hipermercado de acordo com as vendas registradas."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Atualmente no 7º período do Bacharelado em Ciência da Computação, pela Universidade Federal de Uberlândia (UFU), sou Estagiária em Desenvolvimento de Software na ASA Digital.\nApesar de ter preferência pelo back-end, hoje estudo também tecnologias front-end, e até mesmo Ciência de Dados, uma área que me aproximei muito durante a faculdade.\nCriei este site com o intuito de compartilhar os projetos que tenho desenvolvido, tanto na faculdade quanto de forma independente. Estarei atualizando periodicamente!\n\nProjetos em Andamento\nNo momento, estou me dedicando a esses projetos: * 🖥️ criação do portófilio * 📝 estudos sobre c# e .net * 🪄 bootcamp de frontend"
   }
 ]

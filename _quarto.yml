@@ -10,9 +10,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: Sobre
       - href: projetos.qmd
         text: Projetos
   favicon: galeria/snoopyicon.jpg
+  page-footer:
+    center: "página criada com 💙 e [quarto](https://quarto.org/) por amanda duarte."
 
 format:
   html:
