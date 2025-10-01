@@ -25,19 +25,21 @@ lang: pt-br
 
 ::: {#pf-heading}
 
-Atualmente no 7º período do Bacharelado em Ciência da Computação, pela Universidade Federal de Uberlândia (UFU), sou Estagiária em Desenvolvimento de Software na ASA Digital.
-
-Apesar de ter preferência pelo back-end, hoje estudo também tecnologias front-end, e até mesmo Ciência de Dados, uma área que me aproximei muito durante a faculdade.
+Atualmente no 7º período do Bacharelado em Ciência da Computação, pela Universidade Federal de Uberlândia (UFU), sou Estagiária em Desenvolvimento de Software na ASA Digital. Apesar de gostar mais do back-end, hoje também estudo tecnologia de front-end e Ciência de Dados.
 
 Criei este site com o intuito de compartilhar os projetos que tenho desenvolvido, tanto na faculdade quanto de forma independente. Estarei atualizando periodicamente!
-
 
 #### Projetos em Andamento
 
 No momento, estou me dedicando a esses projetos: 
 
-* 📝 estudos sobre c# e .net [](https://github.com/adrtgarcia/udemy-csharp)
-* 🪄 bootcamp de frontend [](https://github.com/adrtgarcia/Bootcamp-FrontEnd-2025)
-* 🖥️ criação do portfólio []()
+* 📝 Estudos sobre front-end [udemy-javascript](https://github.com/adrtgarcia/udemy-javascript)
+* 🪄 Bootcamp de frontend [Bootcamp-FrontEnd-2025](https://github.com/adrtgarcia/Bootcamp-FrontEnd-2025)
+* 🖥️ Criação do portfólio [adrtgarcia.github.io](https://github.com/adrtgarcia/adrtgarcia.github.io)
 
 :::
+
+<hr>
+<div align='right'>
+  <small>Última atualização: 30/09/2025</small>
+</div>
